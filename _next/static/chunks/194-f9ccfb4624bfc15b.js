@@ -55,7 +55,7 @@
                                                     })
                                                 }), (0, l.jsx)("a", {
                                                     className: "px-btn px-btn-theme",
-                                                    href: "#",
+                                                    href: "#work",
                                                     children: (0, l.jsx)("span", {
                                                         children: "Portfolio"
                                                     })

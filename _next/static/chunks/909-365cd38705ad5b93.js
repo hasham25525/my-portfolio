@@ -1,3 +1,5 @@
+// Navbar Menu
+
 "use strict";
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [909], {
@@ -134,7 +136,7 @@
                                         href: "/",
                                         children: (0, a.jsx)("a", {
                                             className: "logo-text",
-                                            children: "Sergio"
+                                            children: "Portfolio"
                                         })
                                     })
                                 }), (0, a.jsxs)("button", {
@@ -161,37 +163,28 @@
                                                 alt: ""
                                             })
                                         }), (0, a.jsx)("h5", {
-                                            children: "Sergiobi"
+                                            children: "Hasham"
                                         })]
                                     })
                                 }), s ? (0, a.jsx)(x, {}) : (0, a.jsx)(j, {})]
                             }), (0, a.jsxs)("div", {
                                 className: "nav justify-content-center social-icons",
                                 children: [(0, a.jsx)("a", {
-                                    href: "#",
+                                    href: "https://github.com/hasham25525",
                                     children: (0, a.jsx)("i", {
-                                        className: "fab fa-facebook-f"
+                                        className: "fab fa-github"
                                     })
                                 }), (0, a.jsx)("a", {
-                                    href: "#",
+                                    href: "https://www.fiverr.com/cartisthasham",
                                     children: (0, a.jsx)("i", {
-                                        className: "fab fa-twitter"
+                                        className: "fab fa-fonticons-fi"
                                     })
                                 }), (0, a.jsx)("a", {
-                                    href: "#",
-                                    children: (0, a.jsx)("i", {
-                                        className: "fab fa-instagram"
-                                    })
-                                }), (0, a.jsx)("a", {
-                                    href: "#",
+                                    href: "https://www.linkedin.com/in/hasham25525",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-linkedin-in"
                                     })
-                                }), (0, a.jsx)("a", {
-                                    href: "#",
-                                    children: (0, a.jsx)("i", {
-                                        className: "fab fa-pinterest"
-                                    })
+                                
                                 })]
                             })]
                         })]
