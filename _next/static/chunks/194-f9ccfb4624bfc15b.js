@@ -356,7 +356,7 @@
                                                     className: "ti-map"
                                                 }), (0, n.jsx)("span", {
                                                     className: "media-body",
-                                                    children: "123 Stree New York City , United States Of America 750065."
+                                                    children: "Karachi, Pakistan",
                                                 })]
                                             }), (0, n.jsxs)("li", {
                                                 className: "media",
@@ -364,16 +364,11 @@
                                                     className: "ti-email"
                                                 }), (0, n.jsx)("span", {
                                                     className: "media-body",
-                                                    children: "support@domain.com"
+                                                    children: "hasham25525@gmail.com"
                                                 })]
                                             }), (0, n.jsxs)("li", {
                                                 className: "media",
-                                                children: [(0, n.jsx)("i", {
-                                                    className: "ti-mobile"
-                                                }), (0, n.jsx)("span", {
-                                                    className: "media-body",
-                                                    children: "+044 9696 9696 3636"
-                                                })]
+                                                
                                             })]
                                         })]
                                     })
