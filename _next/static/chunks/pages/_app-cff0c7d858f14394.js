@@ -42,7 +42,7 @@
                 }, []), (0, i.jsxs)(c.Fragment, {
                     children: [(0, i.jsxs)(l(), {
                         children: [(0, i.jsx)("title", {
-                            children: "Sergio - Portfolio Template"
+                            children: "Muhammad Hasham - Portfolio"
                         }), (0, i.jsx)("link", {
                             rel: "shortcut icon",
                             type: "image/x-icon",

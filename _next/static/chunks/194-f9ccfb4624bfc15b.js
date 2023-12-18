@@ -13,19 +13,20 @@
                         children: (0, l.jsxs)("div", {
                             className: "container",
                             children: [(0, l.jsxs)("div", {
-                                className: "row align-items-center justify-content-center",
+                                className: "row align-items-center justify-content-center ",
                                 children: [(0, l.jsx)("div", {
-                                    className: "col-lg-6 m-15px-tb",
+                                    className: "col-lg-6 m-15px-tb ",
                                     children: (0, l.jsx)("div", {
                                         className: "about-me",
                                         children: (0, l.jsx)("div", {
                                             className: "img",
                                             children: (0, l.jsx)("div", {
-                                                className: "img-in",
+                                                className: "img-in ",
                                                 children: (0, l.jsx)("img", {
                                                     src: "static/img/about-me.png",
                                                     title: "",
-                                                    alt: ""
+                                                    alt: "",
+                                                    className:"rounded-lg"
                                                 })
                                             })
                                         })
@@ -525,20 +526,7 @@
                             }), (0, l.jsxs)("div", {
                                 className: "row",
                                 children: [(0, l.jsx)("div", {
-                                    className: "col-sm-6 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsx)("i", {
-                                            className: "icon theme-bg icon-mobile"
-                                        }), (0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
-                                            }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-                                            })]
-                                        })]
-                                    })
+                                
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
@@ -550,7 +538,7 @@
                                             children: [(0, l.jsx)("h5", {
                                                 children: "Web Development"
                                             }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                                children: "Let's embark on a journey to elevate your online presence, engage your audience, and achieve your business goals. I would love to schedule a consultation to discuss how our web development services can bring your vision to life."
                                             })]
                                         })]
                                     })
@@ -559,13 +547,13 @@
                                     children: (0, l.jsxs)("div", {
                                         className: "feature-box-01 media",
                                         children: [(0, l.jsx)("i", {
-                                            className: "icon theme-bg icon-target"
+                                            className: "icon theme-bg icon-chat"
                                         }), (0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "SEO Marketing"
+                                                children: "Chatbot Development"
                                             }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                                children: "Take the first step towards enhancing customer engagement, increasing efficiency, and unlocking new possibilities for your business. Let's schedule a consultation to discuss how our chatbot solutions can be tailored to elevate your brand."
                                             })]
                                         })]
                                     })
@@ -578,42 +566,42 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "Minimal and Responsive Design",
                                             }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                                children: "Sleek Minimalism, Faster loading time and Enhanced User Experience, all essential features for engaging costumers in your business",
                                             })]
                                         })]
                                     })
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsx)("i", {
-                                            className: "icon theme-bg icon-desktop"
-                                        }), (0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "Web Development"
-                                            }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-                                            })]
-                                        })]
-                                    })
-                                }), (0, l.jsx)("div", {
-                                    className: "col-sm-6 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsx)("i", {
-                                            className: "icon theme-bg icon-target"
-                                        }), (0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "SEO Marketing"
-                                            }), (0, l.jsx)("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-                                            })]
-                                        })]
-                                    })
+                                //     children: (0, l.jsxs)("div", {
+                                //         className: "feature-box-01 media",
+                                //         children: [(0, l.jsx)("i", {
+                                //             className: "icon theme-bg icon-desktop"
+                                //         }), (0, l.jsxs)("div", {
+                                //             className: "feature-content media-body",
+                                //             children: [(0, l.jsx)("h5", {
+                                //                 children: "Web Development"
+                                //             }), (0, l.jsx)("p", {
+                                //                 children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                //             })]
+                                //         })]
+                                //     })
+                                // }), (0, l.jsx)("div", {
+                                //     className: "col-sm-6 m-15px-tb",
+                                //     children: (0, l.jsxs)("div", {
+                                //         className: "feature-box-01 media",
+                                //         children: [(0, l.jsx)("i", {
+                                //             className: "icon theme-bg icon-target"
+                                //         }), (0, l.jsxs)("div", {
+                                //             className: "feature-content media-body",
+                                //             children: [(0, l.jsx)("h5", {
+                                //                 children: "SEO Marketing"
+                                //             }), (0, l.jsx)("p", {
+                                //                 children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                //             })]
+                                //         })]
+                                //     })
                                 })]
                             }), (0, l.jsx)("div", {
                                 className: "separated"
