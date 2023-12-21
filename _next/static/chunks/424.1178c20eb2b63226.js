@@ -71,22 +71,22 @@
                                         className: "c-pointer ".concat(t("branding")),
                                         onClick: r("branding"),
                                         "data-filter": ".branding",
-                                        children: "Branding"
+                                        children: "Ecommerce App"
                                     }), (0, l.jsx)("li", {
                                         className: "c-pointer ".concat(t("photoshop")),
                                         onClick: r("photoshop"),
                                         "data-filter": ".photoshop",
-                                        children: "Photoshop"
+                                        children: "ChatWithAnyone"
                                     }), (0, l.jsx)("li", {
                                         className: "c-pointer ".concat(t("fashion")),
                                         onClick: r("fashion"),
                                         "data-filter": ".fashion",
-                                        children: "Fashion"
+                                        children: "Promptopia"
                                     }), (0, l.jsx)("li", {
                                         className: "c-pointer ".concat(t("product")),
                                         onClick: r("product"),
                                         "data-filter": ".product",
-                                        children: "Product"
+                                        children: "Notes App"
                                     })]
                                 })
                             }), " ", (0, l.jsxs)("div", {
@@ -99,20 +99,20 @@
                                             className: "portfolio-info",
                                             children: [(0, l.jsx)("h5", {
                                                 className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
+                                                children: "Flair"
                                             }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
+                                                children: "Ecommerce App",
                                             })]
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "static/img/m-portfolio-1.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
+                                            children: [(0, l.jsx)("img", ("a", {
+                                                src: "static/img/p1.png",
+                                                title: "Flair - Ecommerce",
+                                                alt: "Flair - Ecommerce"
+                                            })), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "static/img/m-portfolio-1.jpg",
+                                                    href: "https://ecommerce-app-hasham25525.vercel.app/",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -129,20 +129,20 @@
                                             className: "portfolio-info",
                                             children: [(0, l.jsx)("h5", {
                                                 className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
+                                                children: "ChatWithAnyone"
                                             }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
+                                                children: "Chat App"
                                             })]
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "static/img/m-portfolio-2.jpg",
-                                                title: "",
-                                                alt: ""
+                                                src: "static/img/p2.png",
+                                                title: "ChatWithAnyone",
+                                                alt: "ChatWithAnyone"
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "static/img/m-portfolio-2.jpg",
+                                                    href: "https://epic-chat.web.app/",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
