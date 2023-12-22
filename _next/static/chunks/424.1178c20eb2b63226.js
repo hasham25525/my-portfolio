@@ -159,20 +159,20 @@
                                             className: "portfolio-info",
                                             children: [(0, l.jsx)("h5", {
                                                 className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
+                                                children: "Promptopia"
                                             }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
+                                                children: "Prompts Sharing website"
                                             })]
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "static/img/m-portfolio-3.jpg",
-                                                title: "",
-                                                alt: ""
+                                                src: "static/img/p3.png",
+                                                title: "Promptopia",
+                                                alt: "Promptopia"
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "static/img/m-portfolio-3.jpg",
+                                                    href: "https://project-promtopia-beta.vercel.app/",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -189,20 +189,20 @@
                                             className: "portfolio-info",
                                             children: [(0, l.jsx)("h5", {
                                                 className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
+                                                children: "Notes App"
                                             }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
+                                                children: "Notes App"
                                             })]
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "static/img/m-portfolio-5.jpg",
-                                                title: "",
-                                                alt: ""
+                                                src: "static/img/p4-1.png",
+                                                title: "Notes App",
+                                                alt: "Notes App"
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "static/img/m-portfolio-5.jpg",
+                                                    href: "https://notes-github-io-lyart.vercel.app/",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
