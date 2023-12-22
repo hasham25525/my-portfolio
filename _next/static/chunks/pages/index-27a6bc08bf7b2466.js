@@ -30,7 +30,7 @@
                 m = function() {
                     return (0, i.jsxs)(u.Z, {
                         children: [(0, i.jsx)("section", {
-                            id: "home",
+                            id: "particles-js",
                             "data-nav-tooltip": "Home",
                             className: "pp-section pp-scrollable",
                             children: (0, i.jsx)("div", {
