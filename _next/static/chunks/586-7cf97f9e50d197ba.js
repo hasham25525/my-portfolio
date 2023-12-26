@@ -10,13 +10,13 @@
                 }
             });
             let n = {
-                    _origin: "https://api.emailjs.com"
+                    _origin: "https://Zgz3fAS9Qkco9aojT.emailjs.com"
                 },
-                a = (e, t = "https://api.emailjs.com") => {
+                a = (e, t = "https://Zgz3fAS9Qkco9aojT.emailjs.com") => {
                     n._userID = e, n._origin = t
                 },
                 i = (e, t, r) => {
-                    if (!e) throw "Zgz3fAS9Qkco9aojT";
+                    if (!e) throw "23n4TkYiAfV1D0t9jrcHu";
                     if (!t) throw "service_zre55hp";
                     if (!r) throw "template_fgz3p3r";
                     return !0
