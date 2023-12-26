@@ -16,9 +16,9 @@
                     n._userID = e, n._origin = t
                 },
                 i = (e, t, r) => {
-                    if (!e) throw "The user ID is required. Visit https://dashboard.emailjs.com/admin/integration";
-                    if (!t) throw "The service ID is required. Visit https://dashboard.emailjs.com/admin";
-                    if (!r) throw "The template ID is required. Visit https://dashboard.emailjs.com/admin/templates";
+                    if (!e) throw "Zgz3fAS9Qkco9aojT";
+                    if (!t) throw "service_zre55hp";
+                    if (!r) throw "template_fgz3p3r";
                     return !0
                 };
             class o {
