@@ -10,9 +10,9 @@
                 }
             });
             let n = {
-                    _origin: "https://Zgz3fAS9Qkco9aojT.emailjs.com"
+                    _origin: "https://api.emailjs.com"
                 },
-                a = (e, t = "https://Zgz3fAS9Qkco9aojT.emailjs.com") => {
+                a = (e, t = "https://api.emailjs.com") => {
                     n._userID = e, n._origin = t
                 },
                 i = (e, t, r) => {
