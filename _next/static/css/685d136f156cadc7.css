@@ -636,8 +636,8 @@ iframe {
 
 @media (max-width:1200px) {
     .color_switch {
-        top: 71px;
-        right: 13px
+        top: 10px;
+        right: 65px;
     }
     .demo-back-link {
         right: 13px;
