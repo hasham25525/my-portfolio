@@ -145,6 +145,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
+                                  target:"_blank",
                                   href: "https://ecommerce-app-hasham25525.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -186,6 +187,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
+                                  target:"_blank",
                                   href: "https://epic-chat.web.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -227,6 +229,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
+                                  target:"_blank",
                                   href: "https://project-promtopia-beta.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -268,6 +271,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
+                                  target:"_blank",
                                   href: "https://notes-github-io-lyart.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
