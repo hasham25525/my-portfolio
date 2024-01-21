@@ -240,18 +240,6 @@
                                 })]
                             })
                         }), (0, a.jsx)("li", {
-                            "data-menuanchor": "blog",
-                            className: "blog",
-                            children: (0, a.jsxs)("a", {
-                                className: "nav-link",
-                                href: "#blog",
-                                children: [(0, a.jsx)("i", {
-                                    className: "ti-layout-media-overlay-alt-2"
-                                }), (0, a.jsx)("span", {
-                                    children: "Blogs"
-                                })]
-                            })
-                        }), (0, a.jsx)("li", {
                             "data-menuanchor": "contactus",
                             children: (0, a.jsxs)("a", {
                                 className: "nav-link",
@@ -323,20 +311,6 @@
                                             className: "ti-bookmark-alt"
                                         }), (0, a.jsx)("span", {
                                             children: "Portfolio"
-                                        })]
-                                    })
-                                })
-                            }), (0, a.jsx)("li", {
-                                "data-menuanchor": "blog",
-                                className: "blog active",
-                                children: (0, a.jsx)(u(), {
-                                    href: "/#blog",
-                                    children: (0, a.jsxs)("a", {
-                                        className: "nav-link",
-                                        children: [(0, a.jsx)("i", {
-                                            className: "ti-layout-media-overlay-alt-2"
-                                        }), (0, a.jsx)("span", {
-                                            children: "Blogs"
                                         })]
                                     })
                                 })
