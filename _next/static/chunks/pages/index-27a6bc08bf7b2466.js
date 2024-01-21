@@ -58,7 +58,8 @@
                                                     className: "btn-bar",
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
-                                                        href: "#",
+                                                        target:"_blank",
+                                                        href: "https://tan-margette-77.tiiny.site/",
                                                         children: "Donwload CV"
                                                     })
                                                 })]
