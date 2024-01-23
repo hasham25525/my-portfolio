@@ -82,27 +82,27 @@
                         children: "All",
                       }),
                       (0, l.jsx)("li", {
-                        className: "c-pointer ".concat(t("branding")),
-                        onClick: r("branding"),
-                        "data-filter": ".branding",
+                        className: "c-pointer ".concat(t("ecommerce")),
+                        onClick: r("ecommerce"),
+                        "data-filter": ".ecommerce",
                         children: "Ecommerce App",
                       }),
                       (0, l.jsx)("li", {
-                        className: "c-pointer ".concat(t("photoshop")),
-                        onClick: r("photoshop"),
-                        "data-filter": ".photoshop",
+                        className: "c-pointer ".concat(t("chatapp")),
+                        onClick: r("chatapp"),
+                        "data-filter": ".chatapp",
                         children: "ChatWithAnyone",
                       }),
                       (0, l.jsx)("li", {
-                        className: "c-pointer ".concat(t("fashion")),
-                        onClick: r("fashion"),
-                        "data-filter": ".fashion",
+                        className: "c-pointer ".concat(t("promptopia")),
+                        onClick: r("promptopia"),
+                        "data-filter": ".promptopia",
                         children: "Promptopia",
                       }),
                       (0, l.jsx)("li", {
-                        className: "c-pointer ".concat(t("product")),
-                        onClick: r("product"),
-                        "data-filter": ".product",
+                        className: "c-pointer ".concat(t("notesapp")),
+                        onClick: r("notesapp"),
+                        "data-filter": ".notesapp",
                         children: "Notes App",
                       }),
                     ],
@@ -114,7 +114,7 @@
                     "portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery",
                   children: [
                     (0, l.jsx)("div", {
-                      className: "grid-item  branding ",
+                      className: "grid-item  ecommerce ",
                       children: (0, l.jsxs)("div", {
                         className: "portfolio-box-01",
                         children: [
@@ -160,7 +160,7 @@
                     }),
                     " ",
                     (0, l.jsx)("div", {
-                      className: "grid-item photoshop",
+                      className: "grid-item chatapp",
                       children: (0, l.jsxs)("div", {
                         className: "portfolio-box-01",
                         children: [
@@ -202,7 +202,7 @@
                     }),
                     " ",
                     (0, l.jsx)("div", {
-                      className: "grid-item fashion ",
+                      className: "grid-item promptopia ",
                       children: (0, l.jsxs)("div", {
                         className: "portfolio-box-01",
                         children: [
@@ -244,7 +244,7 @@
                     }),
                     " ",
                     (0, l.jsx)("div", {
-                      className: "grid-item product ",
+                      className: "grid-item notesapp ",
                       children: (0, l.jsxs)("div", {
                         className: "portfolio-box-01",
                         children: [
@@ -286,7 +286,7 @@
                     }),
                     ,
                     // " ", (0, l.jsx)("div", {
-                    //     className: "grid-item branding",
+                    //     className: "grid-item ecommerce",
                     //     children: (0, l.jsxs)("div", {
                     //         className: "portfolio-box-01",
                     //         children: [(0, l.jsxs)("div", {
@@ -316,7 +316,7 @@
                     //         })]
                     //     })
                     // }), " ", (0, l.jsx)("div", {
-                    //     className: "grid-item product photoshop",
+                    //     className: "grid-item notesapp chatapp",
                     //     children: (0, l.jsxs)("div", {
                     //         className: "portfolio-box-01",
                     //         children: [(0, l.jsxs)("div", {
@@ -346,7 +346,7 @@
                     //         })]
                     //     })
                     // }), " ", (0, l.jsx)("div", {
-                    //     className: "grid-item fashion",
+                    //     className: "grid-item promptopia",
                     //     children: (0, l.jsxs)("div", {
                     //         className: "portfolio-box-01",
                     //         children: [(0, l.jsxs)("div", {
@@ -376,7 +376,7 @@
                     //         })]
                     //     })
                     // }), " ", (0, l.jsx)("div", {
-                    //     className: "grid-item product branding",
+                    //     className: "grid-item notesapp ecommerce",
                     //     children: (0, l.jsxs)("div", {
                     //         className: "portfolio-box-01",
                     //         children: [(0, l.jsxs)("div", {
@@ -406,7 +406,7 @@
                     //         })]
                     //     })
                     // }), " ", (0, l.jsx)("div", {
-                    //     className: "grid-item fashion",
+                    //     className: "grid-item promptopia",
                     //     children: (0, l.jsxs)("div", {
                     //         className: "portfolio-box-01",
                     //         children: [(0, l.jsxs)("div", {
