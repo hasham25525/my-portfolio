@@ -82,6 +82,12 @@
                         children: "All",
                       }),
                       (0, l.jsx)("li", {
+                        className: "c-pointer ".concat(t("devtest")),
+                        onClick: r("devtest"),
+                        "data-filter": ".devtest",
+                        children: "DevTest",
+                      }),
+                      (0, l.jsx)("li", {
                         className: "c-pointer ".concat(t("ecommerce")),
                         onClick: r("ecommerce"),
                         "data-filter": ".ecommerce",
@@ -113,6 +119,52 @@
                   className:
                     "portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery",
                   children: [
+                    (0, l.jsx)("div", {
+                      className: "grid-item  devtest ",
+                      children: (0, l.jsxs)("div", {
+                        className: "portfolio-box-01",
+                        children: [
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-info",
+                            children: [
+                              (0, l.jsx)("h5", {
+                                className: "white-color font-weight-bold",
+                                children: "DevTest",
+                              }),
+                              (0, l.jsx)("span", {
+                                children: "A Realtime Coding Interview App using Socket.io",
+                              }),
+                            ],
+                          }),
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-img",
+                            children: [
+                              (0, l.jsx)(
+                                "img",
+                                ("a",
+                                {
+                                  src: "static/img/devtest.png",
+                                  title: "DevTest - Realtime Coding Interview App",
+                                  alt: "DevTest - Realtime Coding Interview App",
+                                })
+                              ),
+                              (0, l.jsx)("div", {
+                                className: "portfolio-icon",
+                                children: (0, l.jsx)("a", {
+                                  target:"_blank",
+                                  href: "https://devtest-live.vercel.app/",
+                                  className: "gallery-link",
+                                  children: (0, l.jsx)("span", {
+                                    className: "ti-link",
+                                  }),
+                                }),
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    " ",
                     (0, l.jsx)("div", {
                       className: "grid-item  ecommerce ",
                       children: (0, l.jsxs)("div", {
