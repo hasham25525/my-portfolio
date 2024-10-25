@@ -59,8 +59,8 @@
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
                                                         target:"_blank",
-                                                        href: "https://tan-margette-77.tiiny.site/",
-                                                        children: "Donwload CV"
+                                                        href: "https://drive.google.com/file/d/1T9IxSfUMSb1Rwpzn2K_vWwh59IvnHx1R/view?usp=sharing",
+                                                        children: "Download CV"
                                                     })
                                                 })]
                                             })
