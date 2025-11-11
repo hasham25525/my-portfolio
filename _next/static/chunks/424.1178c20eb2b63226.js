@@ -88,6 +88,12 @@
                         children: "DevTest",
                       }),
                       (0, l.jsx)("li", {
+                        className: "c-pointer ".concat(t("Product Customizer")),
+                        onClick: r("customizer"),
+                        "data-filter": ".customizer",
+                        children: "Product Customizer",
+                      }),
+                      (0, l.jsx)("li", {
                         className: "c-pointer ".concat(t("ecommerce")),
                         onClick: r("ecommerce"),
                         "data-filter": ".ecommerce",
@@ -132,7 +138,8 @@
                                 children: "DevTest",
                               }),
                               (0, l.jsx)("span", {
-                                children: "A Realtime Coding Interview App using Socket.io",
+                                children:
+                                  "A Realtime Coding Interview App using Socket.io",
                               }),
                             ],
                           }),
@@ -144,15 +151,63 @@
                                 ("a",
                                 {
                                   src: "static/img/devtest.png",
-                                  title: "DevTest - Realtime Coding Interview App",
+                                  title:
+                                    "DevTest - Realtime Coding Interview App",
                                   alt: "DevTest - Realtime Coding Interview App",
                                 })
                               ),
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
-                                  target:"_blank",
+                                  target: "_blank",
                                   href: "https://devtest-live.vercel.app/",
+                                  className: "gallery-link",
+                                  children: (0, l.jsx)("span", {
+                                    className: "ti-link",
+                                  }),
+                                }),
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    " ",
+                    (0, l.jsx)("div", {
+                      className: "grid-item  customizer",
+                      children: (0, l.jsxs)("div", {
+                        className: "portfolio-box-01",
+                        children: [
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-info",
+                            children: [
+                              (0, l.jsx)("h5", {
+                                className: "white-color font-weight-bold",
+                                children: "Product Customizer",
+                              }),
+                              (0, l.jsx)("span", {
+                                children:
+                                  "A dynamic e-commerce product customizer with advanced text, image editing, and reusable design templates.",
+                              }),
+                            ],
+                          }),
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-img",
+                            children: [
+                              (0, l.jsx)(
+                                "img",
+                                ("a",
+                                {
+                                  src: "static/img/product-customizer.png",
+                                  title: "Product Customizer",
+                                  alt: "Product Customizer",
+                                })
+                              ),
+                              (0, l.jsx)("div", {
+                                className: "portfolio-icon",
+                                children: (0, l.jsx)("a", {
+                                  target: "_blank",
+                                  href: "https://my-product-customizer.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
                                     className: "ti-link",
@@ -197,7 +252,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
-                                  target:"_blank",
+                                  target: "_blank",
                                   href: "https://ecommerce-app-hasham25525.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -239,7 +294,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
-                                  target:"_blank",
+                                  target: "_blank",
                                   href: "https://epic-chat.web.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -281,7 +336,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
-                                  target:"_blank",
+                                  target: "_blank",
                                   href: "https://project-promtopia-beta.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
@@ -323,7 +378,7 @@
                               (0, l.jsx)("div", {
                                 className: "portfolio-icon",
                                 children: (0, l.jsx)("a", {
-                                  target:"_blank",
+                                  target: "_blank",
                                   href: "https://notes-github-io-lyart.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
