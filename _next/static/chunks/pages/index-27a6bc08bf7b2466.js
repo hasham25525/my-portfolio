@@ -59,7 +59,7 @@
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
                                                         target:"_blank",
-                                                        href: "https://drive.google.com/file/d/1VHlGfcNIAFrOK2pUQpnyO1YQxV4Qixe4/view?usp=sharing",
+                                                        href: "https://drive.google.com/file/d/1v0dW5cbvnIX0_pT-CKvxm9dip9ZQEgy8/view?usp=sharing",
                                                         children: "Download CV"
                                                     })
                                                 })]
