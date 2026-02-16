@@ -204,7 +204,7 @@
                                 "img",
                                 ("a",
                                 {
-                                  src: "static/img/mailbot.jpg",
+                                  src: "static/img/p8.jpg",
                                   title:
                                     "MailBot - Never Miss a Renewal Again",
                                   alt: "MailBot - Never Miss a Renewal Again",
