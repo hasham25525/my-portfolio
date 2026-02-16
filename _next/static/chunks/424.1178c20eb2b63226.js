@@ -41,19 +41,19 @@
                 i.current &&
                   ("*" === o
                     ? i.current.arrange({
-                        filter: "*",
-                      })
+                      filter: "*",
+                    })
                     : i.current.arrange({
-                        filter: ".".concat(o),
-                      }));
+                      filter: ".".concat(o),
+                    }));
               },
               [o]
             );
           var r = function (i) {
-              return function () {
-                a(i);
-              };
-            },
+            return function () {
+              a(i);
+            };
+          },
             t = function (i) {
               return i === o ? "active" : "";
             };
@@ -86,6 +86,12 @@
                         onClick: r("devtest"),
                         "data-filter": ".devtest",
                         children: "DevTest",
+                      }),
+                      (0, l.jsx)("li", {
+                        className: "c-pointer ".concat(t("mailbot")),
+                        onClick: r("mailbot"),
+                        "data-filter": ".mailbot",
+                        children: "MailBot",
                       }),
                       (0, l.jsx)("li", {
                         className: "c-pointer ".concat(t("Product Customizer")),
@@ -161,6 +167,54 @@
                                 children: (0, l.jsx)("a", {
                                   target: "_blank",
                                   href: "https://devtest-live.vercel.app/",
+                                  className: "gallery-link",
+                                  children: (0, l.jsx)("span", {
+                                    className: "ti-link",
+                                  }),
+                                }),
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    }),
+                    " ",
+                    (0, l.jsx)("div", {
+                      className: "grid-item  mailbot ",
+                      children: (0, l.jsxs)("div", {
+                        className: "portfolio-box-01",
+                        children: [
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-info",
+                            children: [
+                              (0, l.jsx)("h5", {
+                                className: "white-color font-weight-bold",
+                                children: "MailBot",
+                              }),
+                              (0, l.jsx)("span", {
+                                children:
+                                  "Subscription Based Email Automation Tool",
+                              }),
+                            ],
+                          }),
+                          (0, l.jsxs)("div", {
+                            className: "portfolio-img",
+                            children: [
+                              (0, l.jsx)(
+                                "img",
+                                ("a",
+                                {
+                                  src: "static/img/mailbot.jpg",
+                                  title:
+                                    "MailBot - Never Miss a Renewal Again",
+                                  alt: "MailBot - Never Miss a Renewal Again",
+                                })
+                              ),
+                              (0, l.jsx)("div", {
+                                className: "portfolio-icon",
+                                children: (0, l.jsx)("a", {
+                                  target: "_blank",
+                                  href: "https://mail-bot-subscription-manager.vercel.app/",
                                   className: "gallery-link",
                                   children: (0, l.jsx)("span", {
                                     className: "ti-link",
